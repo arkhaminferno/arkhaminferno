@@ -1,5 +1,5 @@
 ### Hi there 👋
-###Developer/Freelancer/Esports Player.
+### Developer/Freelancer/Esports Player.
 
 
 <!--
