@@ -1,6 +1,7 @@
 ### Hi there 👋
-### Developer/Freelancer/Esports Player.
+   Developer/Freelancer/Esports Player.
 
+[![HitCount](http://hits.dwyl.com/arkhaminferno/arkhaminferno.svg)](http://hits.dwyl.com/arkhaminferno/arkhaminferno)
 
 <!--
 **arkhaminferno/arkhaminferno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
