@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-I'm a Developer/Freelancer/Esports Player.
+###Developer/Freelancer/Esports Player.
 
 
 <!--
